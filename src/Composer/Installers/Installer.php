@@ -91,6 +91,7 @@ class Installer extends LibraryInstaller
         'redaxo5'      => 'Redaxo5Installer',
         'reindex'      => 'ReIndexInstaller',
         'roundcube'    => 'RoundcubeInstaller',
+        'rvsitebuilder'    => 'RvsitebuilderInstaller',
         'shopware'     => 'ShopwareInstaller',
         'sitedirect'   => 'SiteDirectInstaller',
         'silverstripe' => 'SilverStripeInstaller',
